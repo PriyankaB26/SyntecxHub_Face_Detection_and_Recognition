@@ -62,5 +62,5 @@ data/known_faces/Alia_Bhatt/
 
 ## 🧪 Output
 
-![Face Recognition Output](output.jpg)
+![Face Recognition Output](output1.png)
 
