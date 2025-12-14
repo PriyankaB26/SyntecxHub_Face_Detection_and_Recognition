@@ -36,7 +36,7 @@ This project **does not train a neural network from scratch**. Instead, it:
 
 ---
 
-## 🔹 How to Add New People (Very Important)
+## 🔹 How to Add New People 
 
 To add a new person **NO CODE CHANGES ARE REQUIRED**.
 
@@ -60,7 +60,7 @@ data/known_faces/Alia_Bhatt/
 
 
 
-## 🧪 Output
+##  Output
 
 ![Face Recognition Output](output1.png)
 
